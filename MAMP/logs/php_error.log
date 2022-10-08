@@ -1,0 +1,5 @@
+[15-Mar-2022 01:28:45 UTC] Resetting core_component cache after core upgrade to version 2021051706
+[15-Mar-2022 01:30:52 UTC] [client 0:0:0:0:0:0:0:1]  http://localhost:8888/moodle311  Invalid Login Token:  admin  Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+[18-Mar-2022 04:07:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/moodle311/mod/lesson/view.php on line 261
+[18-Mar-2022 04:07:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/moodle311/mod/lesson/view.php on line 263
+[18-Mar-2022 04:29:50 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Applications/MAMP/htdocs/moodle311/index.php on line 127
